@@ -1,4 +1,4 @@
 # my-first-github-repo
 
 My First Github Repository
-Gerald
+Gerald Williams
